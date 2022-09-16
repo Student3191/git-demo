@@ -1,7 +1,6 @@
 sword and spear
 wall of shields
 sword and spear
-<<<<<<< HEAD
 wall of shields
 
-delete2102
+delete
